@@ -1,0 +1,58 @@
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\bin\Debug\AppDemo12.exe.config
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.csprojResolveAssemblyReference.cache
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.Properties.Resources.resources
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.View.frmProducto.resources
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.csproj.GenerateResource.Cache
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\bin\Debug\AppDemo12.exe
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\bin\Debug\AppDemo12.pdb
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.exe
+E:\Program Files\POO_C#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.pdb
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\bin\Debug\AppDemo12.exe.config
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.exe
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.pdb
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\bin\Debug\AppDemo12.exe
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\bin\Debug\AppDemo12.pdb
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.csprojResolveAssemblyReference.cache
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.Properties.Resources.resources
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.View.frmProducto.resources
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemo12\AppDemo12\obj\Debug\AppDemo12.csproj.GenerateResource.Cache
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\bin\Debug\AppDemo12.exe.config
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.exe
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.pdb
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\bin\Debug\AppDemo12.exe
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\bin\Debug\AppDemo12.pdb
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.csprojResolveAssemblyReference.cache
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.Properties.Resources.resources
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.View.frmProducto.resources
+D:\fundamentos de  sistemas de informacion\Curso de C#\sistemas uni c#\Demos\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.csproj.GenerateResource.Cache
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\bin\Debug\AppDemo12.exe.config
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.exe
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.pdb
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\bin\Debug\AppDemo12.exe
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\bin\Debug\AppDemo12.pdb
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.Properties.Resources.resources
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.View.frmProducto.resources
+C:\Users\cesar\Downloads\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.csproj.GenerateResource.Cache
+C:\Users\cesar\Desktop\AppDemoTrabajoFinal\AppDemo12\bin\Debug\AppDemo12.exe.config
+C:\Users\cesar\Desktop\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.exe
+C:\Users\cesar\Desktop\AppDemoTrabajoFinal\AppDemo12\obj\Debug\AppDemo12.pdb
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\bin\Debug\AppDemo12.exe.config
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\bin\Debug\AppDemo12.exe
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\bin\Debug\AppDemo12.pdb
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.csprojResolveAssemblyReference.cache
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.Properties.Resources.resources
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.View.frmProducto.resources
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.csproj.GenerateResource.Cache
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.exe
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\Curso de C# sist uni\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.pdb
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\bin\Debug\AppDemo12.exe.config
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\bin\Debug\AppDemo12.exe
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\bin\Debug\AppDemo12.pdb
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.csprojAssemblyReference.cache
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.Properties.Resources.resources
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.View.frmProducto.resources
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.csproj.GenerateResource.cache
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.csproj.CoreCompileInputs.cache
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.exe
+F:\marco brugman sii\AppDemoTrabajoFinal sistemas uni\AppDemo12\obj\Debug\AppDemo12.pdb
